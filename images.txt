@@ -2,3 +2,4 @@ nginx
 mysql
 vulhub/shiro:1.2.4
 vulhub/shiro:1.0.0
+vulhub/struts:2.5.25
