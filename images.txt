@@ -1,2 +1,4 @@
 nginx
 mysql
+vulhub/shiro:1.2.4
+vulhub/shiro:1.0.0
